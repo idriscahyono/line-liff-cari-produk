@@ -27,7 +27,7 @@ include 'scrap.php';
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <form class="form-inline my-2 my-lg-0" action="" method="post">
-                                <input name="cari" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" style="width: 400px; height:43px">
+                                <input name="cari" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" style="width: 300px; height:43px">
                                 <button class="btn btn-primary my-2 my-sm-0" name="simpan" type="submit">Search</button>
                             </form>
                         </li>
