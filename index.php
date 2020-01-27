@@ -17,13 +17,10 @@ include 'scrap.php';
   <link rel="stylesheet" href="assets/libs/css/style.css">
   <link rel="stylesheet" href="assets/vendor/fonts/fontawesome/css/fontawesome-all.css">
 
-  <title>Cari Produk</title>
+  <title>Cari & Bandingkan</title>
 
 </head>
 <body>
-    <div class="card text-center">
-        <div class="card-header" style="background-color: #f2c318;color:white">Cari & Bandingkan</div>
-    </div>
     <div>
         <div class="dashboard-header">
             <nav class="navbar navbar-expand-lg bg-white fixed-top">
@@ -37,6 +34,9 @@ include 'scrap.php';
                     </ul>
                 </div>
             </nav>
+            <div class="card text-center">
+                <div class="card-header" style="background-color: #000000;color:white">Cari & Bandingkan</div>
+            </div>
             <div class="card text-center">
                 <div class="card-header" style="background-color: #000000;color:white">Cari & Bandingkan</div>
             </div>
